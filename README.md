@@ -14,7 +14,12 @@ I'm proficient in a variety of technologies and frameworks, including:
 
 ### Server-Side
 - 🌐 **Node.js**
-
+- 💻 **Python:**
+- ☕ **Java:**
+- 🎯 **C#:**
+- 🔧 **C:** 
+- 🗡️ **C++:** 
+  
 ### Front-End
 - ⚛️ **React**
 - 🅰️ **Angular**
