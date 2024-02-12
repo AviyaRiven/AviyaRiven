@@ -17,8 +17,8 @@ I'm proficient in a variety of technologies and frameworks, including:
 - 💻 **Python:**
 - ☕ **Java:**
 - 🎯 **C#:**
-<>(- 🔧 **C:** )
-<>(- 🗡️ **C++:**)
+<!--  - 🔧 **C:**-->
+<!--  - 🗡️ **C++:**-->
   
 ### Front-End
 - ⚛️ **React**
